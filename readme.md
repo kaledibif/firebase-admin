@@ -7,7 +7,6 @@ A simple Firebase Collection CRUD Management project.
 - react-admin-firebase
 
 ### Screenshot
-:-------------------------:
 ![](screenshot.png)
 
 ### Installation
