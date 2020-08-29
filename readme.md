@@ -6,6 +6,10 @@ A simple Firebase Collection CRUD Management project.
 - firebase
 - react-admin-firebase
 
+### Screenshot
+:-------------------------:
+![](screenshot.png)
+
 ### Installation
 
 1. Install node modules.
